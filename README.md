@@ -56,10 +56,10 @@ Software Components:
 
 * Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
 
-Codehs (www.codehs.org )
-Eclipse (www.eclipse.org )
-Netbeans (www.netbeans.org )
-Replit (www.replit.com )
+Codehs (www.codehs.org )/
+Eclipse (www.eclipse.org )/
+Netbeans (www.netbeans.org )/
+Replit (www.replit.com )/
 (Will give students their choice of IDE)
 
 * Autograders
