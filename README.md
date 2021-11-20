@@ -56,27 +56,25 @@ Software Components:
 
 * Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
 
-Codehs (www.codehs.org )
+Codehs (www.codehs.org )  ,  Eclipse (www.eclipse.org )  ,  Netbeans (www.netbeans.org )  ,  Replit (www.replit.com )
 
-Eclipse (www.eclipse.org )
-
-Netbeans (www.netbeans.org )
-
-Replit (www.replit.com )
 
 * Autograder
 
 Codequiry (www.codequiry.com )
 
+
 * Platform for posting assignments, grades, lecture videos, and for work submission
 
 Canvas Teacher / Canvas Student (www.cuhsd.instructure.com )
+
 
 * Website resources for continued professional development
 
 ACM - SIGCSE (www.sigcse.org )
 
 CSTA (www.csteachers.org )
+
 
 * Contingency platform for distance learning / classes
 
@@ -89,14 +87,17 @@ Zoom (www.zoom.us )
 
 HP EliteBook x360 1030 G2 ,  2.71GHz, Intel Core i5-7200u CPU  ,  8 GB RAM  ,  512 GB Storage
 
+
 * Students will use:
 
 Galaxy Chromebooks  ,  1.6 GHz, Intel Core i5-10210u CPU  ,  8 GB RAM  ,  256 GB Storage 
+
 
 * Network at Leigh…
 
 Wifi…current CS teacher occasionally has to communicate with district tech support to ensure that certain websites (i.e. suggested IDEs) are accessible,
 but, again, the CS program at my school has been going strong for a few years now, so there aren’t many issues with network restrictions at this point.
+
 
 * Other hardware / “hardware”
 	
@@ -120,10 +121,10 @@ use Canvas for warehousing student submissions and assessing / reporting grades.
 I’m not sure for what percentage of student submissions I should use Codequiry to just check for correct return values and for what percentage I should 
 look more closely at the code written, but I imagine that, toward the beginning of the school year, I should favor the following types of assignments:
 
-*     Short problems with narrow focus as opposed to longer labs or projects…this will make it easier for me to look more closely at students’ coding 
-      when they’re first attempting it
+1) Short problems with narrow focus as opposed to longer labs or projects…this will make it easier for me to look more closely at students’ coding 
+when they’re first attempting it
       
-*     Problems that allow for Pair Programming (since variance in student comfort levels with coding will be greater in August – October than later 
+2) Problems that allow for Pair Programming (since variance in student comfort levels with coding will be greater in August – October than later 
       in the school year)
       
 What would a typical day look like in CSA class?  We’re on block schedule at Leigh HS, and our blocks are 95 minutes long.  So…
