@@ -56,14 +56,16 @@ Software Components:
 
 * Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
 
-Codehs (www.codehs.org )/
-Eclipse (www.eclipse.org )/
-Netbeans (www.netbeans.org )/
-Replit (www.replit.com )/
-(Will give students their choice of IDE)
+Codehs (www.codehs.org )
 
-* Autograders
-Codequiry (www.codequiry.com )
+Eclipse (www.eclipse.org )
+
+Netbeans (www.netbeans.org )
+
+Replit (www.replit.com )
+
+* Autograder
+**Codequiry (www.codequiry.com )
 
 * Platform for posting assignments, grades, lecture videos, and for work submission
 Canvas Teacher / Canvas Student (www.cuhsd.instructure.com )
