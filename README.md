@@ -16,21 +16,25 @@ upper middle class, tech-savvy families, and Leigh has, within the last two year
 wireless network, and the administration, faculty, students, and parents are all connected online through email, newsletters, and the Canvas platform 
 that the school has adopted as a course management system.
 
+
 This educational technology plan will be for AP Computer Science A classes.  Leigh actually already has a computer science program, helmed by a 
 friend and colleague in the math department (and, unlike me, he is a legitimate CS guru).  There are roughly one hundred students in Leigh’s CS 
 program – around fifty students who take AP CSA and the corresponding AP Exam each year in May, and around fifty students who take CSP.  Leigh uses 
 “Project Lead the Way” (PLTW) curriculum in the Computer Science Principles classes.
+
 
 My process for developing this plan involved initially pretending that my school did not have a running CS program.  I watched the CSED 510 lecture 
 videos and ran plenty of web searches in order to make educated guesses about what hardware, software, apps, and websites might be useful when teaching 
 a CSA class.  I then bounced ideas off of my friend / the “Leigh HS CS guru” in order find out which of my decisions were impractical and which of them 
 were reasonable.
 
+
 Though I have thoroughly enjoyed my limited exposure to coding, I don’t anticipate putting this plan into action within the next five years.  Leigh HS 
 already has an extremely knowledgeable CS teacher, and I am poised to become a new parent in February (!!), so it would be a bad idea to take on a brand 
 new prep / subject anytime in the near future.  Eventually I’d like to help out my colleague with the CS classes, though, particularly if the program grows 
 to the point where more than one CS teacher is needed.  Currently, my colleague works with two sections of CSP students and two sections of AP CSA students.  
 Each of the classes has roughly twenty-five students, and it would be nice to maintain that class size even as the program grows.
+
 
 My goals with this plan for teaching AP CSA at Leigh HS are to:
 
@@ -48,11 +52,13 @@ Projected timeline for implementation:  2027 / 2028.  My daughter-to-be will be 
 confident in my “parenting skills” at that point (?).
 
 
+
+
 ## Plan
+
 
 ### Software Specifications
 
-Software Components:
 
 * Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
 
@@ -82,6 +88,7 @@ Zoom (www.zoom.us )
 
 
 ### Hardware Specifications
+
 
 * Teacher will use:
 
@@ -114,9 +121,11 @@ event that schools had to return to a distance-learning model.
 
 ### Application of Technology
 
+
 Students will use their choice of IDEs for coding, though, as I learn more about their respective features, I will be in a better position to make 
 recommendations.  Students will warehouse their problems/labs/projects at their IDE of choice and submit links to their work to me at Canvas.  I will 
 use Canvas for warehousing student submissions and assessing / reporting grades. 
+
 
 I’m not sure for what percentage of student submissions I should use Codequiry to just check for correct return values and for what percentage I should 
 look more closely at the code written, but I imagine that, toward the beginning of the school year, I should favor the following types of assignments:
@@ -126,17 +135,21 @@ when they’re first attempting it
       
 2) Problems that allow for Pair Programming (since variance in student comfort levels with coding will be greater in August – October than later 
       in the school year)
-      
+
+
 What would a typical day look like in CSA class?  We’re on block schedule at Leigh HS, and our blocks are 95 minutes long.  So…
+
 
 I envision that, most days, students will start off by either logging into Canvas to view a short lecture that I’ve posted – or taking out notebooks and 
 listening to me lecture at the whiteboard – for roughly 15 – 20 minutes.  The lecture videos would involve me talking off camera as I use my document 
 camera to write down important ideas / concepts that we’re studying.  Similarly, for the whiteboard lectures, I would stay out of the way of “the work,” 
 moving from right to left (since I am right-handed, this allows me to more easily “get out of the way” of what I’ve just written on the board).
 
+
 Evidence-based practices that I would observe during this part of class would include combining visual and auditory explanation of concepts (“multi-channel” 
 learning), synchronizing those visual and auditory explanations (“temporal proximity”), and placing labels ON any diagrams I sketch as opposed to labeling 
 off to the side (“spatial proximity”).
+
 
 Some days I’ll need an extra 5 – 10 minutes to explain a brand new assignment, but, particularly as we get into the 2nd semester, many days students will 
 typically have the remaining 75 – 80 minutes to work on assignments.  I will aim for 60% of assignments to be short single-day skill-building “problems” 
@@ -145,9 +158,11 @@ individually for most assignments (for around 90% of assignments), but they will
 for all non-test assignments, and I will also encourage students to form study groups away from the classroom – in-person and/or virtual – in order to discuss 
 and make sense of the objectives for larger-scale project assignments.  
 
+
 Students will utilize the evidence-based practice of “Pair Programming” on roughly 10% of assignments, particularly toward the beginning of the school year, 
 in order to take advantage of some students’ pre-August familiarity/fluency with coding and allow those students to guide and counsel novice programmers in 
 the class.
+
 
 Finally, in the event that CSA classes have to suddenly change modalities (if, because of Covid, for instance, we had to return to a distance-learning model), 
 then classes would be conducted on Zoom, and I would use my document camera extensively, both to lecture and to demonstrate solutions to students’ questions.
