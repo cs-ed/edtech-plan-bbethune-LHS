@@ -56,7 +56,7 @@ Software Components:
 
 * Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
 
-Codehs (www.codehs.org ) ** this one worked well during CSED-501
+Codehs (www.codehs.org )
 Eclipse (www.eclipse.org )
 Netbeans (www.netbeans.org )
 Replit (www.replit.com )
