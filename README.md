@@ -52,9 +52,29 @@ confident in my “parenting skills” at that point (?).
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+Software Components:
+
+* Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
+** Codehs (www.codehs.org ) ** this one worked well during CSED-501
+** Eclipse (www.eclipse.org )
+** Netbeans (www.netbeans.org )
+** Replit (www.replit.com )
+Will give students their choice of IDE
+
+•	Autograders
+o	Codequiry (www.codequiry.com )
+
+•	Platform for posting assignments, grades, lecture videos, and for work submission
+o	Canvas Teacher / Canvas Student (www.cuhsd.instructure.com )
+
+•	Website resources for continued professional development
+o	ACM
+	SIGCSE (www.sigcse.org )
+o	CSTA (www.csteachers.org )
+
+•	Contingency platform for distance learning / classes
+o	Zoom (www.zoom.us )
+
 
 ### Hardware Specifications
 
