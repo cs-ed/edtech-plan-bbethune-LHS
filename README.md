@@ -17,7 +17,7 @@ wireless network, and the administration, faculty, students, and parents are all
 that the school has adopted as a course management system.
 
 This educational technology plan will be for AP Computer Science A classes.  Leigh actually already has a computer science program, helmed by a 
-friend and colleague in the math department (and, unlike me, he is a legitimate CS guru ).  There are roughly one hundred students in Leigh’s CS 
+friend and colleague in the math department (and, unlike me, he is a legitimate CS guru).  There are roughly one hundred students in Leigh’s CS 
 program – around fifty students who take AP CSA and the corresponding AP Exam each year in May, and around fifty students who take CSP.  Leigh uses 
 “Project Lead the Way” (PLTW) curriculum in the Computer Science Principles classes.
 
@@ -33,10 +33,13 @@ to the point where more than one CS teacher is needed.  Currently, my colleague 
 Each of the classes has roughly twenty-five students, and it would be nice to maintain that class size even as the program grows.
 
 My goals with this plan for teaching AP CSA at Leigh HS are to:
+
 •	Set up an AP CSA classroom in which students have a clear understanding of the work flow (what an “average day” in class looks like… what resources/ 
         websites we will make extensive use of,…)
+        
 •	Set up a classroom in which teacher works to have a strong understanding of the “big” ideas and the key vocabulary involved with CS (and in which 
         students can rely on teacher to explain these things clearly)
+        
 •	Set up a classroom in which students are empowered to “build” their own understanding of coding through a balance of collaborative vs. solo 
         assignments and a blend of small-scale “problems” and larger scale “labs” and “projects”
 
