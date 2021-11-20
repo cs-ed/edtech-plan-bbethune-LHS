@@ -32,8 +32,8 @@ were reasonable.
 Though I have thoroughly enjoyed my limited exposure to coding, I don’t anticipate putting this plan into action within the next five years.  Leigh HS 
 already has an extremely knowledgeable CS teacher, and I am poised to become a new parent in February (!!), so it would be a bad idea to take on a brand 
 new prep / subject anytime in the near future.  Eventually I’d like to help out my colleague with the CS classes, though, particularly if the program grows 
-to the point where more than one CS teacher is needed.  Currently, my colleague works with two sections of CSP students and two sections of AP CSA students.  
-Each of the classes has roughly twenty-five students, and it would be nice to maintain that class size even as the program grows.
+to the point where more than one CS teacher is needed.  Currently, my colleague works with two sections of CSP students and two sections of AP CSA students. Each 
+of the classes has roughly twenty-five students, and it would be nice to maintain that class size even as the program grows.
 
 
 My goals with this plan for teaching AP CSA at Leigh HS are to:
