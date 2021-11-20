@@ -34,14 +34,14 @@ Each of the classes has roughly twenty-five students, and it would be nice to ma
 
 My goals with this plan for teaching AP CSA at Leigh HS are to:
 
-•	Set up an AP CSA classroom in which students have a clear understanding of the work flow (what an “average day” in class looks like… what resources/ 
-        websites we will make extensive use of,…)
+* Set up an AP CSA classroom in which students have a clear understanding of the work flow (what an “average day” in class looks like… what resources/ 
+  websites we will make extensive use of,…)
         
-•	Set up a classroom in which teacher works to have a strong understanding of the “big” ideas and the key vocabulary involved with CS (and in which 
-        students can rely on teacher to explain these things clearly)
+* Set up a classroom in which teacher works to have a strong understanding of the “big” ideas and the key vocabulary involved with CS (and in which students 
+  can rely on teacher to explain these things clearly)
         
-•	Set up a classroom in which students are empowered to “build” their own understanding of coding through a balance of collaborative vs. solo 
-        assignments and a blend of small-scale “problems” and larger scale “labs” and “projects”
+* Set up a classroom in which students are empowered to “build” their own understanding of coding through a balance of collaborative vs. solo assignments 
+  and a blend of small-scale “problems” and larger scale “labs” and “projects”
 
 
 Projected timeline for implementation:  2027 / 2028.  My daughter-to-be will be 5 or 6 years old, and, hopefully, I will feel at least reasonably 
@@ -132,7 +132,8 @@ What would a typical day look like in CSA class?  We’re on block schedule at L
 I envision that, most days, students will start off by either logging into Canvas to view a short lecture that I’ve posted – or taking out notebooks and 
 listening to me lecture at the whiteboard – for roughly 15 – 20 minutes.  The lecture videos would involve me talking off camera as I use my document 
 camera to write down important ideas / concepts that we’re studying.  Similarly, for the whiteboard lectures, I would stay out of the way of “the work,” 
-moving from right to left (since I am right-handed, this allows me to more easily “get out of the way” of what I’ve just written on the board).  
+moving from right to left (since I am right-handed, this allows me to more easily “get out of the way” of what I’ve just written on the board).
+
 Evidence-based practices that I would observe during this part of class would include combining visual and auditory explanation of concepts (“multi-channel” 
 learning), synchronizing those visual and auditory explanations (“temporal proximity”), and placing labels ON any diagrams I sketch as opposed to labeling 
 off to the side (“spatial proximity”).
@@ -142,9 +143,11 @@ typically have the remaining 75 – 80 minutes to work on assignments.  I will a
 (again, frontloaded toward the beginning of the school year), 30% to be multi-day “labs,” and 10% to be multi-week “projects.”  Students will turn in work 
 individually for most assignments (for around 90% of assignments), but they will be encouraged to discuss their progress and struggles with other students 
 for all non-test assignments, and I will also encourage students to form study groups away from the classroom – in-person and/or virtual – in order to discuss 
-and make sense of the objectives for larger-scale project assignments.  Students will utilize the evidence-based practice of “Pair Programming” on roughly 10% 
-of assignments, particularly toward the beginning of the school year, in order to take advantage of some students’ pre-August familiarity/fluency with coding 
-and allow those students to guide and counsel novice programmers in the class.
+and make sense of the objectives for larger-scale project assignments.  
+
+Students will utilize the evidence-based practice of “Pair Programming” on roughly 10% of assignments, particularly toward the beginning of the school year, 
+in order to take advantage of some students’ pre-August familiarity/fluency with coding and allow those students to guide and counsel novice programmers in 
+the class.
 
 Finally, in the event that CSA classes have to suddenly change modalities (if, because of Covid, for instance, we had to return to a distance-learning model), 
 then classes would be conducted on Zoom, and I would use my document camera extensively, both to lecture and to demonstrate solutions to students’ questions.
