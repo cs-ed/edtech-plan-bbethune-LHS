@@ -55,25 +55,25 @@ confident in my “parenting skills” at that point (?).
 Software Components:
 
 * Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
-** Codehs (www.codehs.org ) ** this one worked well during CSED-501
-** Eclipse (www.eclipse.org )
-** Netbeans (www.netbeans.org )
-** Replit (www.replit.com )
-Will give students their choice of IDE
 
-•	Autograders
-o	Codequiry (www.codequiry.com )
+Codehs (www.codehs.org ) ** this one worked well during CSED-501
+Eclipse (www.eclipse.org )
+Netbeans (www.netbeans.org )
+Replit (www.replit.com )
+(Will give students their choice of IDE)
 
-•	Platform for posting assignments, grades, lecture videos, and for work submission
-o	Canvas Teacher / Canvas Student (www.cuhsd.instructure.com )
+* Autograders
+Codequiry (www.codequiry.com )
 
-•	Website resources for continued professional development
-o	ACM
-	SIGCSE (www.sigcse.org )
-o	CSTA (www.csteachers.org )
+* Platform for posting assignments, grades, lecture videos, and for work submission
+Canvas Teacher / Canvas Student (www.cuhsd.instructure.com )
 
-•	Contingency platform for distance learning / classes
-o	Zoom (www.zoom.us )
+* Website resources for continued professional development
+ACM - SIGCSE (www.sigcse.org )
+CSTA (www.csteachers.org )
+
+* Contingency platform for distance learning / classes
+Zoom (www.zoom.us )
 
 
 ### Hardware Specifications
