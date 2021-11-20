@@ -85,27 +85,13 @@ Zoom (www.zoom.us )
 
 ### Hardware Specifications
 
-Hardware Components:
-
 * Teacher will use:
 
-HP EliteBook x360 1030 G2
-
-2.71GHz, Intel Core i5-7200u CPU
-
-8 GB RAM
-
-512 GB Storage
+HP EliteBook x360 1030 G2 ,  2.71GHz, Intel Core i5-7200u CPU  ,  8 GB RAM  ,  512 GB Storage
 
 * Students will use:
 
-Galaxy Chromebooks
-
-1.6 GHz, Intel Core i5-10210u CPU
-
-8 GB RAM
-
-256 GB Storage 
+Galaxy Chromebooks  ,  1.6 GHz, Intel Core i5-10210u CPU  ,  8 GB RAM  ,  256 GB Storage 
 
 * Network at Leigh…
 
@@ -121,15 +107,47 @@ Whiteboard / whiteboard pens – I will probably still conduct many short lectur
 
 HP LaserJet Pro M402 Printer - I anticipate creating short skill-building worksheets to help students develop “offline” coding skills
 
-IPEVO Ziggi-HD Plus Document Camera - Would be used to create short supplemental lecture videos and much more extensively for live lectures in the event 
-that schools had to return to a distance-learning model.
+IPEVO Ziggi-HD Plus Document Camera - Would be used to create short supplemental lecture videos and much more extensively for live lectures in the 
+event that schools had to return to a distance-learning model.
 
 
-### Application
+### Application of Technology
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+Students will use their choice of IDEs for coding, though, as I learn more about their respective features, I will be in a better position to make 
+recommendations.  Students will warehouse their problems/labs/projects at their IDE of choice and submit links to their work to me at Canvas.  I will 
+use Canvas for warehousing student submissions and assessing / reporting grades. 
+
+I’m not sure for what percentage of student submissions I should use Codequiry to just check for correct return values and for what percentage I should 
+look more closely at the code written, but I imagine that, toward the beginning of the school year, I should favor the following types of assignments:
+
+*     Short problems with narrow focus as opposed to longer labs or projects…this will make it easier for me to look more closely at students’ coding 
+      when they’re first attempting it
+      
+*     Problems that allow for Pair Programming (since variance in student comfort levels with coding will be greater in August – October than later 
+      in the school year)
+      
+What would a typical day look like in CSA class?  We’re on block schedule at Leigh HS, and our blocks are 95 minutes long.  So…
+
+I envision that, most days, students will start off by either logging into Canvas to view a short lecture that I’ve posted – or taking out notebooks and 
+listening to me lecture at the whiteboard – for roughly 15 – 20 minutes.  The lecture videos would involve me talking off camera as I use my document 
+camera to write down important ideas / concepts that we’re studying.  Similarly, for the whiteboard lectures, I would stay out of the way of “the work,” 
+moving from right to left (since I am right-handed, this allows me to more easily “get out of the way” of what I’ve just written on the board).  
+Evidence-based practices that I would observe during this part of class would include combining visual and auditory explanation of concepts (“multi-channel” 
+learning), synchronizing those visual and auditory explanations (“temporal proximity”), and placing labels ON any diagrams I sketch as opposed to labeling 
+off to the side (“spatial proximity”).
+
+Some days I’ll need an extra 5 – 10 minutes to explain a brand new assignment, but, particularly as we get into the 2nd semester, many days students will 
+typically have the remaining 75 – 80 minutes to work on assignments.  I will aim for 60% of assignments to be short single-day skill-building “problems” 
+(again, frontloaded toward the beginning of the school year), 30% to be multi-day “labs,” and 10% to be multi-week “projects.”  Students will turn in work 
+individually for most assignments (for around 90% of assignments), but they will be encouraged to discuss their progress and struggles with other students 
+for all non-test assignments, and I will also encourage students to form study groups away from the classroom – in-person and/or virtual – in order to discuss 
+and make sense of the objectives for larger-scale project assignments.  Students will utilize the evidence-based practice of “Pair Programming” on roughly 10% 
+of assignments, particularly toward the beginning of the school year, in order to take advantage of some students’ pre-August familiarity/fluency with coding 
+and allow those students to guide and counsel novice programmers in the class.
+
+Finally, in the event that CSA classes have to suddenly change modalities (if, because of Covid, for instance, we had to return to a distance-learning model), 
+then classes would be conducted on Zoom, and I would use my document camera extensively, both to lecture and to demonstrate solutions to students’ questions.
+
 
 ### Impacts
 
