@@ -62,9 +62,6 @@ confident in my “parenting skills” at that point (?).
 
 Integrated Development Environments (IDEs) w/incorporated compilers/debuggers
 
-* Codehs (www.codehs.org )
-* Eclipse (www.eclipse.org )  
-* Netbeans (www.netbeans.org )  
 * Replit (www.replit.com )
 
 
@@ -126,9 +123,9 @@ event that schools had to return to a distance-learning model.
 ### Application of Technology
 
 
-Students will use their choice of IDEs for coding, though, as I learn more about their respective features, I will be in a better position to make 
-recommendations.  Students will warehouse their problems/labs/projects at their IDE of choice and submit links to their work to me at Canvas.  I will 
-use Canvas for warehousing student submissions and assessing / reporting grades. 
+Students will use the IDE at replit.com for coding, though, as I learn more about IDEs generally, I will be in a better position to make updated 
+recommendations.  Students will warehouse their problems/labs/projects at replit.com and submit links to their work to me at Canvas.  I will use
+Canvas for warehousing student submissions and assessing / reporting grades. 
 
 
 I’m not sure for what percentage of student submissions I should use Codequiry to just check for correct return values and for what percentage I should 
@@ -149,12 +146,6 @@ listening to me lecture at the whiteboard – for roughly 15 – 20 minutes.  Th
 camera to write down important ideas / concepts that we’re studying.  Similarly, for the whiteboard lectures, I would stay out of the way of “the work,” 
 moving from right to left (since I am right-handed, this allows me to more easily “get out of the way” of what I’ve just written on the board).
 
-
-Evidence-based practices that I would observe during this part of class would include combining visual and auditory explanation of concepts (“multi-channel” 
-learning), synchronizing those visual and auditory explanations (“temporal proximity”), and placing labels ON any diagrams I sketch as opposed to labeling 
-off to the side (“spatial proximity”).
-
-
 Some days I’ll need an extra 5 – 10 minutes to explain a brand new assignment, but, particularly as we get into the 2nd semester, many days students will 
 typically have the remaining 75 – 80 minutes to work on assignments.  I will aim for 60% of assignments to be short single-day skill-building “problems” 
 (again, frontloaded toward the beginning of the school year), 30% to be multi-day “labs,” and 10% to be multi-week “projects.”  Students will turn in work 
@@ -163,18 +154,36 @@ for all non-test assignments, and I will also encourage students to form study g
 and make sense of the objectives for larger-scale project assignments.  
 
 
-Students will utilize the evidence-based practice of “Pair Programming” on roughly 10% of assignments, particularly toward the beginning of the school year, 
+Students will utilize “Pair Programming” on roughly 10% of assignments, the majority of those "front-loaded" toward the beginning of the school year, 
 in order to take advantage of some students’ pre-August familiarity/fluency with coding and allow those students to guide and counsel novice programmers in 
 the class.
 
 
-Finally, in the event that CSA classes have to suddenly change modalities (if, because of Covid, for instance, we had to return to a distance-learning model), 
-then classes would be conducted on Zoom, and I would use my document camera extensively, both to lecture and to demonstrate solutions to students’ questions.
-
-
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+If I was to take over the school's CSA classes next year, in addition to needing to ramp up my facility with java, I would want to assess the representation 
+of historically underrepresented groups in computer science.  One of my goals would be to determine how to attract students with less access to computers (a 
+small but never-negligible number of students in the Leigh HS area), and how to encourage more girls to sign up for CSA.  
+
+One strategy could be to visit already-existing student clubs in order to promote our CS program.  For example, while the members of the Girls Who Code club 
+are probably already enrolled in our CS classes, those girls who code could visit a meeting held by the Women's Club to enlist other female students who might 
+need some encouragement to try out a computer science class.  Similarly, members of the Coding and AI clubs who are enrolled in CSA could be tasked with 
+speaking at meetings held by the Math Club or the Mock Trial Club in order to encourage students who, while they may not be familar with coding, do have an 
+appreciation for thinking logically and crafting and "running" reasoned arguments.
+
+Another tactic that could be used to increase and diversify enrollment would be to involve school counselors in that long-term plan.  Each year the bulk of the 
+programming for the following school year is taken care of between January and April.  While Leigh HS does have some fantastic elective courses, the fact that
+only 100 students out of 1800 are enrolled in CS classes each year leaves some room for improvement.  Though it would take me a few years to better understand
+which types of students usually enjoy and excel in computer programming classes, once I do figure that out, I could help counselors become more effective 
+advocates for the program.
+
+For students already taking the class, one of the immediate goals would be to bridge the gap between students who have been coding since they were 10 years old
+(and who are far more comfortable with it than I am) and students who are novice programmers.  As I mentioned earlier, the evidence-based practice of "Pair 
+Programming" would be effective in this regard during class work / group work time, particularly toward the beginning of the school year.   
+
+Evidence-based practices that I would observe during short lectures would include combining visual and auditory explanation of concepts (“multi-channel” 
+learning), synchronizing those visual and auditory explanations (“temporal proximity”), and placing labels ON any diagrams I sketch as opposed to labeling 
+off to the side (“spatial proximity”).
+
+Finally, in the event that CSA classes have to suddenly change modalities (if, because of Covid, for instance, we had to return to a distance-learning model), 
+then classes would be conducted on Zoom, and I would use my document camera extensively, both to lecture and to demonstrate solutions to students’ questions.
